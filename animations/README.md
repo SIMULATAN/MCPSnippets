@@ -37,7 +37,7 @@ As seen in the javadocs, putting in a `float` will assume the unit as `seconds`,
 If you want to use a specific change in value per second rather than a fixed duration of the animation you can use this method **instead of the constructor (`new Animation()`)** to construct the Object.
 
 ### Using a Animation
-To use a animation, you have to use the `getValue` method on a Animation object which got saved as described above. This will also encounter for easings.
+To use a animation, you have to use the `getValue` method on a Animation object which got saved as described above. This will also take easings into account.
 
 ### Easings?
 Now you might have read about these easings.
