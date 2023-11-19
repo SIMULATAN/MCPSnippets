@@ -7,7 +7,7 @@ To simplify this and make it as easy and modular as possible, I created this uti
 I hope you like it!
 
 ## Documentation
-For a quickstart, see [General Usage](#general-usage), a more in-depth explanation is available in the javadoc. If you have any questions, just DM me on Discord! My tag is `_SIM_#6866` (UID: `505713760124665867`)
+For a quickstart, see [General Usage](#general-usage), a more in-depth explanation is available in the javadoc. If you have any questions, just DM me on Discord! My tag is `@simulatan` (UID: `505713760124665867`)
 ## General Usage
 ### Creating a Animation
 Generally, you want to first construct a animation, save that object into a variable and use the `Animation#getValue` method from that point on to get the value of the animation.
